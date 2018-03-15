@@ -1,0 +1,10 @@
+*.retry
+*.tfvars
+*.backup
+*.tfstate
+.terraform/
+.vagrant/
+*.old
+*.info
+*.pem
+*.pub
